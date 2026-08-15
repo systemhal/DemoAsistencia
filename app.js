@@ -1,7 +1,6 @@
 /* ==========================================================================
    INTERACTIVE APP LOGIC - ASISTENCIAPRO
    ========================================================================== */
-
 // 1. Base de Datos Inicial (Datos por defecto si el LocalStorage está vacío)
 const DEFAULT_EMPLOYEES = {
    //"76458278": { name: "HURTADO TORRES GHILBERT ROBERTO", role: "Soporte Técnico", age: 32, gender: "Masculino", pin: "1234", workStart: "08:00", workEnd: "17:00", breakStart: "13:00", breakEnd: "14:00" }
